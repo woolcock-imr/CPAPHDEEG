@@ -17,14 +17,16 @@ var list={
       A+'Baseline_Evening_DASS',
 
     ],
-    "Baseline Evening Tests":[
+    "Baseline Practice Tests":[
       A+'Practice_NBack',
-      A+'Baseline_NBack',
       A+'Practice_Stroop_Colour',
-      A+'Baseline_Stroop_colour',
       A+'Practice_Stroop_Text',
+      A+'Practice_LCT',
+    ],
+    "Baseline Evening Tests":[
+      A+'Baseline_NBack',
+      A+'Baseline_Stroop_colour',
       A+'Baseline_Stroop_text',
-      A+'Treatment_Practice_LCT',
       A+'Baseline_LCT',
     ],
     "Baseline Evening Tapping Task":[
@@ -49,16 +51,18 @@ var list={
       A+'TreatmentEvening_ESS',
       A+'TreatmentEvening_ISI',
       A+'TreatmentEvening_PSQI',
-      A+'TreatmentEvening_DASS',
+      A+'TreatmentEvening_DASS', 
+    ],
+    "Treatment Practice Tests":[
+      A+'Treatment_Practice_NBack',
+      A+'Treatment_Practice_Stroop_Colour',
+      A+'Treatment_Practice_Stroop_Text',
+      A+'Treatment_Practice_LCT',
     ],
     "Treatment Evening Tests":[
-      A+'Treatment_Practice_NBack',
       A+'TreatmentEvening_NBack',
-      A+'Treatment_Practice_Stroop_Colour',
       A+'TreatmentEvening_Stroop_Colour',
-      A+'Treatment_Practice_Stroop_Text',
       A+'TreatmentEvening_Stroop_text',
-      A+'Treatment_Practice_LCT',
       A+'TreatmentEvening_LCT',
     ],
     "Treatment Evening Tapping Task":[
