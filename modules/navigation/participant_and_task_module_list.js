@@ -61,7 +61,7 @@ L[A+'Baseline_LCT']={table_id:'20009321',var:v,url:B+'/modules/task/LCT.html',no
 L[A+'Baseline_LCT_Quest']={table_id:'20009321',var:v,url:B+ '/modules/task/LCT.QUEST.html'};
 L[A+'Baseline_NBack']={table_id:'20009569',var:v,url:B+'/modules/task/N_Back.html',notes:'Baseline N-Back (2-Back)',form_module:A+'Baseline_NBack_Quest',task:'N-Back (2-Back)'};
 L[A+'Baseline_NBack_Quest']={table_id:'20009569',var:v,url:B+ '/modules/task/N2_Back.QUEST.html'};
-L[A+'Baseline_PSG300_Report']={table_id:'20009324',var:v,url:B+'/modules/task/PSG300.html',notes:'Baseline PSG300 Report'};
+L[A+'Baseline_PSG300_Report']={table_id:'20009324',var:v,url:B+'/modules/task/PSGREPORT2018.html',notes:'Baseline PSG300 Report'};
 L[A+'Baseline_Sleep_Scoring_File_Upload']={table_id:'20009325',var:v,url:B+'/modules/task/File_upload.html',notes:'Baseline Sleep Scoring File upload'};
 L[A+'Baseline_EDF_File_Upload']={table_id:'20009326',var:v,url:B+'/modules/task/File_upload.html',notes:'Baseline EDF File upload'};
 //L[A+'Baseline_Morning_KDT']={table_id:'20009327',var:v,url:B+'/modules/task/KDT.html',notes:'Baseline  Karolinska Drowsiness Test (KDT)'};
@@ -126,7 +126,7 @@ L[A+'TreatmentEvening_NBack']={table_id:'20009658',var:v,url:B+'/modules/task/N_
 L[A+'TreatmentEvening_NBack_Quest']={table_id:'20009658',var:v,url:B+ '/modules/task/N2_Back.QUEST.html'};
 
 
-L[A+'TreatmentEvening_PSG300_Report']={table_id:'20009354',var:v,url:B+'/modules/task/PSG300.html',notes:'TreatmentPSG300 Report'};
+L[A+'TreatmentEvening_PSG300_Report']={table_id:'20009354',var:v,url:B+'/modules/task/PSGREPORT2018.html',notes:'TreatmentPSG300 Report'};
 L[A+'TreatmentEvening_Sleep_Scoring_File_Upload']={table_id:'20009355',var:v,url:B+'/modules/task/File_upload.html',notes:'TreatmentSleep Scoring File upload'};
 L[A+'TreatmentEvening_EDF_File_Upload']={table_id:'20009356',var:v,url:B+'/modules/task/File_upload.html',notes:'TreatmentEDF File upload'};
 
